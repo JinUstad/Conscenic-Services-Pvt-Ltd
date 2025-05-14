@@ -22,6 +22,7 @@
 
 
 
+
   function toggleScrolled() {
     const selectBody = document.querySelector('body');
     const selectHeader = document.querySelector('#header');
@@ -152,12 +153,6 @@
    * Initiate Pure Counter
    */
   new PureCounter();
-
-
-
-
-
-
 
 })();
 
